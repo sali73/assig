@@ -1,0 +1,34 @@
+*{
+   font-size: large;
+   font-family: "Al Bayan";
+}
+ul{
+  height: 220px;
+  background-color: lightgray;
+  margin: 30px;
+  list-style: none;
+}
+div .workers-list{
+  background-color: #282c34;
+  display: flex;
+  flex-direction: row;
+  color: #282c34;
+}
+form{
+  height: 140px;
+  background-color: lightgray ;
+  padding: 30px;
+  text-align: center;
+}
+.form-control{
+  width: 400px;
+  margin: auto;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
